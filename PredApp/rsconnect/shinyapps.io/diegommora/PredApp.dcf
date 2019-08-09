@@ -1,0 +1,12 @@
+name: PredApp
+title: PredApp
+username:
+account: diegommora
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1077984
+bundleId: 2305601
+url: https://diegommora.shinyapps.io/PredApp/
+when: 1565390936.45617
+asMultiple: FALSE
+asStatic: FALSE
